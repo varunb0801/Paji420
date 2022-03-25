@@ -7,4 +7,4 @@
 1. Technical
 2. Council
 
-*Bss bhai
+* Bss bhai
