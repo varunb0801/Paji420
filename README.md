@@ -3,3 +3,6 @@
 ### NOTHING
 
 <img src = "t2.jpeg">
+
+1. Technical
+2. Council
